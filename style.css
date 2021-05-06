@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+    body {
+        margin: 20px;
+        background-color: silver;
+    }
+
+    .container {
+        width: 70%;
+        margin: auto;
+        background-color: white;
+        padding: 10px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        font-family: courier, monospace;
+        font-size: 20px;
+        font-weight: bolder;
+        line-height: 30px;
+    }
+
+    .heading {
+        border: 7px solid gray;
+        background-color: #999999;
+        color: white;
+        padding: 15px;
+        text-align: center;
+    }
+    h5 {
+        font-size: 20px;
+        line-height: 2px !important;
+    }
+
+    h2 {
+        text-align: center;
+    }
+
+    .htmlDiv {
+        border: 7px solid #ff471a;
+        background-color: #ff5c33;
+        color: white;
+        padding: 15px;
+        margin-top: 10px;
+    }
+
+    .cssDiv {
+        border: 7px solid #008ae6;
+        background-color: #1aa3ff;
+        color: white;
+        padding: 15px;
+        margin-top: 10px;
+    }
+
+    .jsDiv {
+        border: 7px solid #ffff66;
+        background-color: #ffff80;
+        color: black;
+        padding: 15px;
+        margin-top: 10px;
+    }
+
+    .pythonDiv {
+        border: 7px solid #009999;
+        background-color: #00cccc;
+        padding: 15px;
+        margin-top: 10px;
+    }
+
+    .cDiv {
+        color: #f2f2f2;
+        border: 7px solid #1236a1;
+        background-color: #143db8;
+        padding: 15px;
+        margin-top: 10px;
+    }
+
+    .cppDiv {
+        color: #f2f2f2;
+        border: 7px solid #0b4d8e;
+        background-color: #0d59a5;
+        padding: 15px;
+        margin-top: 10px;
+    }
+
+    .javaDiv {
+        border: 7px solid #ff1a1a;
+        background-color: #ff4d4d;
+        padding: 15px;
+        margin-top: 10px;
+    }
+
+    .sqlDiv {
+        border: 7px solid #80ffff;
+        background-color: #99ffff;
+        padding: 15px;
+        margin-top: 10px;
+    }
+
+
+
+    .resources {
+        border: 7px solid #003300;
+        background-color: #99ff99;
+        padding: 10px;
+        margin-top: 10px;
+    }
+
+    footer {
+        border: 7px solid yellow;
+        padding: 10px;
+        background-color: #003566;
+        color: white;
+        font-size: 40px;
+        font-family: 'satisfy', cursive;
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .links a{
+        width: 40%;
+        text-align: center;
+        margin: 10px auto;
+        display: block;
+    }
+
+    .khanacademy {
+        text-decoration: none;
+        border: 3px solid #00cc7a;
+        border-radius: 15px;
+        background-color: #00cc7a;
+        color: white;
+        padding: 5px;
+        transition: background-color 0.3s ease-in, color 0.3s ease-in, border 0.3s ease-in, position 0.5s ease-in;
+    }
+    .khanacademy:hover {
+        background-color: white;
+        color: #00cc7a;
+        border: 3px solid #00cc7a;
+    }
+
+    .codecademy {
+        text-decoration: none;
+        border: 3px solid #000033;
+        border-radius: 15px;
+        background-color: #000033;
+        color: white;
+        padding: 5px;
+        transition: background-color 0.3s ease-in, color 0.3s ease-in, border 0.3s ease-in, position 0.5s ease-in;
+    }
+    .codecademy:hover {
+        background-color: white;
+        color: #000033;
+        border: 3px solid #000033;
+    }
+
+    .sololearn {
+        text-decoration: none;
+        border: 3px solid salmon;
+        border-radius: 15px;
+        background-color: salmon;
+        color: white;
+        padding: 5px;
+        transition: background-color 0.3s ease-in, color 0.3s ease-in, border 0.3s ease-in, position 0.5s ease-in;
+    }
+    .sololearn:hover {
+        background-color: white;
+        color: salmon;
+        border: 3px solid salmon;
+    }
